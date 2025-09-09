@@ -1,2 +1,2 @@
 # HyperCube
-A website named hypercube, based on bootstrap components.
+A website named hypercube, designed based on bootstrap components.
