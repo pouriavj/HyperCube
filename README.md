@@ -1,6 +1,6 @@
 # 🌐 Bootstrap Landing Page
 
-This is a **responsive landing page** built with **HTML, CSS, and Bootstrap 5**.  
+This is a simple **responsive landing page** built with **HTML, CSS, and Bootstrap 5**.  
 It showcases a modern design with a navigation bar, hero section, feature highlights, an image carousel, and a footer.
 
 ---
