@@ -24,7 +24,7 @@ It showcases a modern design with a navigation bar, hero section, feature highli
 
 ## 📸 Preview
 You can view the live demo here:  
-👉 [Live Demo](https://pouriavj.github.io/your-repo-name/)
+👉 [Live Demo](https://pouriavj.github.io/HyperCube/)
 
 ---
 
