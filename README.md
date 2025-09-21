@@ -34,11 +34,11 @@ You can view the live demo here:
    git clone https://github.com/pouriavj/HyperCube.git
    ```
 2. Open `index.html` in your browser.  
-3. Make sure images (`.svg`, `.jpeg`, `.jpg`) are in the correct paths.  
+3. Make sure images (`.svg`, `.jpg`) are in the correct paths.  
 
 ---
 
 ## ✨ Customization
 - Replace text in the **hero section** with your own branding.  
 - Update images in the **carousel** and features section.  
-- Modify styles in `styles.css` for color schemes, fonts, and layout tweaks.  
+
