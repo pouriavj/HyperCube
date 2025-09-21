@@ -31,7 +31,7 @@ You can view the live demo here:
 ## 📂 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/pouriavj/your-repo-name.git
+   git clone https://github.com/pouriavj/HyperCube.git
    ```
 2. Open `index.html` in your browser.  
 3. Make sure images (`.svg`, `.jpeg`, `.jpg`) are in the correct paths.  
